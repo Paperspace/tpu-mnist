@@ -1,8 +1,8 @@
-# Gradient modifications to Google's TPU MNIST tutorial
+# Gradient changes to Google's TPU MNIST tutorial
 
 These source files are taken from the Google tutorial files for running the TPU MNIST tutorial.  The original source files are unchanged, but the way the sample is run in Paperspace Gradient is different than as described in Google's documentation.  This README describes the differences.
 
-Note: the original README file for these sources is [README.md](README.md)
+Note: the original README file for these sources is [README_ORIG.md](README_ORIG.md)
 
 To run the MNIST tutorial code on Gradient perform the following steps:
 
